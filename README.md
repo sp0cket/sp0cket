@@ -28,6 +28,8 @@
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style="/></a>
   <a href="https://docs.microsoft.com/dotnet/csharp/"><img alt="Csharp" src="https://img.shields.io/badge/-Csharp-239120?logo=C%20sharp&logoColor=white&style="/></a>
   <a href="https://www.swift.com/"><img alt="Swift" src="https://img.shields.io/badge/-Swift-DF5C43?logo=Swift&logoColor=white&style="/></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style="/></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style="/></a>
   
 </p>
 
@@ -38,11 +40,11 @@
 </p>
 
 <p>
-  Today is <b>Friday, February 12, 3:53 PM GMT+8</b> <br />
-  My current city <b>Chengdu, CN</b> weather is: <img src="" width="20" /> <i></i>
-  <li>temperature : <b> °C</b> , feels like  : <b> °C</b></br></li>
-  <li>humidity    : <b>%</b> , wind speed  : <b> meter&#x2F;sec</b></br></li>
-  <li>sun rises at: <b></b> , sets at: <b></b></li>
+  Today is <b>Friday, February 12, 4:21 PM GMT+8</b> <br />
+  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png" width="20" /> <i>overcast clouds</i>
+  <li>temperature : <b>13.6 °C</b> , feels like  : <b>10.9 °C</b></br></li>
+  <li>humidity    : <b>67%</b> , wind speed  : <b>3 meter&#x2F;sec</b></br></li>
+  <li>sun rises at: <b>06:38 AM</b> , sets at: <b>05:38 PM</b></li>
 </p>
 
 <p>Recent coding record</p>
