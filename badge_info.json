@@ -146,10 +146,12 @@
   "label": "Kubernetes",
   "bg_color": "#326CE5",
   "logo": "Kubernetes",
+  "logoColor": "white",
   "link": "https://kubernetes.io/"
 }, {
   "label": "Docker",
   "bg_color": "#2496ED",
   "logo": "Docker",
+  "logoColor": "white",
   "link": "https://www.docker.com/"
 }]
