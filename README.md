@@ -48,11 +48,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     7 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   31.23 % 
-Java         4 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-TypeScript   3 hrs 31 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Go           2 hrs 59 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Groovy       1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
