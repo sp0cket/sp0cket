@@ -142,4 +142,14 @@
   "logo": "Swift",
   "logoColor": "white",
   "link": "https://www.swift.com/"
+}, {
+  "label": "Kubernetes",
+  "bg_color": "#326CE5",
+  "logo": "Kubernetes",
+  "link": "https://kubernetes.io/"
+}, {
+  "label": "Docker",
+  "bg_color": "#2496ED",
+  "logo": "Docker",
+  "link": "https://www.docker.com/"
 }]
