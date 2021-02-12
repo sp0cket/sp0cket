@@ -27,6 +27,7 @@
   <a href="https://dev.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4579A1?logo=MySQL&logoColor=white&style="/></a>
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style="/></a>
   <a href="https://docs.microsoft.com/dotnet/csharp/"><img alt="Csharp" src="https://img.shields.io/badge/-Csharp-239120?logo=C%20sharp&logoColor=white&style="/></a>
+  <a href="https://www.swift.com/"><img alt="Swift" src="https://img.shields.io/badge/-Swift-DF5C43?logo=Swift&logoColor=white&style="/></a>
   
 </p>
 
@@ -37,7 +38,7 @@
 </p>
 
 <p>
-  Today is <b>Friday, February 12, 3:34 PM GMT+8</b> <br />
+  Today is <b>Friday, February 12, 3:53 PM GMT+8</b> <br />
   My current city <b>Chengdu, CN</b> weather is: <img src="" width="20" /> <i></i>
   <li>temperature : <b> °C</b> , feels like  : <b> °C</b></br></li>
   <li>humidity    : <b>%</b> , wind speed  : <b> meter&#x2F;sec</b></br></li>
