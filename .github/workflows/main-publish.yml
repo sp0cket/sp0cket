@@ -1,0 +1,69 @@
+name: build-README.md
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 */3 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkout
+        uses: actions/checkout@v1
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: '14.x'
+      - name: cache
+        uses: actions/cache@v1
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        run: npm install
+      - name: Generate README file
+        run: |
+         echo "run npm start date: $(date)"
+         npm start
+         echo "run npm finsh date: $(date)"
+         sleep 3
+        env:
+          RUN_MODE: ${{secrets.RUN_MODE}}
+          OPEN_WEATHER_MAP_KEY: ${{secrets.OPEN_WEATHER_MAP_KEY}}
+      - name: Commit files
+        run: |
+         echo "GITHUB_ACTOR -> ${GITHUB_ACTOR}"
+         echo "GITHUB_REPOSITORY -> ${GITHUB_REPOSITORY}"
+         COMMIT_MSG="Updated the Graph with weather data"
+         if [ -z "${COMMIT_MSG}" ]; then
+          echo "error: not found env: COMMIT_MSG"
+          exit 1
+         fi
+         git config http.sslVerify false
+         git config user.name "${GITHUB_ACTOR}"
+         git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+         git lfs install
+         echo "Commit files date: $(date)"
+         git add -A
+         git --no-pager diff --staged README.md
+         git commit -m "${COMMIT_MSG}"
+         git status
+      - name: Push by Action
+        uses: ad-m/github-push-action@v0.6.0 # https://github.com/ad-m/github-push-action#github-action-for-github-push
+        with:
+          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Repository name to push. Default or empty value represents current github repository ( ${GITHUB_REPOSITORY} )
+          # repository: main
+          # Destination branch to push changes, optional, default is master
+          branch: ${{ github.ref }}
+          # Determines if force push is used
+          #force: false
+          # Determines if --tags is used
+          #tags: false
+          # Directory to change to before pushing. optional, default is .
+          #directory: '.'
