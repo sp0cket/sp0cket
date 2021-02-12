@@ -136,4 +136,10 @@
   "logo": "C sharp",
   "logoColor": "white",
   "link": "https://docs.microsoft.com/dotnet/csharp/"
+}, {
+  "label": "Swift",
+  "bg_color": "#DF5C43",
+  "logo": "Swift",
+  "logoColor": "white",
+  "link": "https://www.swift.com/"
 }]
