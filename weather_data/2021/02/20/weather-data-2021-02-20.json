@@ -1,0 +1,48 @@
+[
+  {
+    "date": "2021-02-19T18:02:02+00:00",
+    "weather": {
+      "coord": {
+        "lon": 121.4581,
+        "lat": 31.2222
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 10.27,
+        "feels_like": 8,
+        "temp_min": 8,
+        "temp_max": 13.33,
+        "pressure": 1018,
+        "humidity": 76
+      },
+      "visibility": 10000,
+      "wind": {
+        "speed": 2,
+        "deg": 190
+      },
+      "clouds": {
+        "all": 0
+      },
+      "dt": 1613757440,
+      "sys": {
+        "type": 1,
+        "id": 9659,
+        "country": "CN",
+        "sunrise": 1613773865,
+        "sunset": 1613814305
+      },
+      "timezone": 28800,
+      "id": 1796236,
+      "name": "Shanghai",
+      "cod": 200
+    }
+  }
+]
