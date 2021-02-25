@@ -51,11 +51,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Go                13 hrs 23 mins  ████████████████░░░░░░░░░   64.25 % 
-Protocol Buffer   2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-JavaScript        1 hr 56 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-YAML              1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Docker            33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+Go                23 hrs 37 mins  █████████████████▒░░░░░░░   69.24 % 
+Protocol Buffer   2 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+YAML              2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+JavaScript        1 hr 56 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Makefile          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 <!--END_SECTION:waka-->
 
