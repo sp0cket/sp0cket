@@ -154,5 +154,60 @@
       "name": "Shanghai",
       "cod": 200
     }
+  },
+  {
+    "date": "2021-03-01T03:02:05+00:00",
+    "weather": {
+      "coord": {
+        "lon": 121.4581,
+        "lat": 31.2222
+      },
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        },
+        {
+          "id": 701,
+          "main": "Mist",
+          "description": "mist",
+          "icon": "50d"
+        }
+      ],
+      "base": "stations",
+      "main": {
+        "temp": 13.7,
+        "feels_like": 12.45,
+        "temp_min": 13.33,
+        "temp_max": 14.44,
+        "pressure": 1016,
+        "humidity": 94
+      },
+      "visibility": 3500,
+      "wind": {
+        "speed": 3,
+        "deg": 310
+      },
+      "rain": {
+        "1h": 0.27
+      },
+      "clouds": {
+        "all": 90
+      },
+      "dt": 1614567601,
+      "sys": {
+        "type": 1,
+        "id": 9659,
+        "country": "CN",
+        "sunrise": 1614550887,
+        "sunset": 1614592321
+      },
+      "timezone": 28800,
+      "id": 1796236,
+      "name": "Shanghai",
+      "cod": 200
+    }
   }
 ]
