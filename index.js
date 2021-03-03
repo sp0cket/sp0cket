@@ -271,9 +271,9 @@ async function setWeatherInformation(city, appid, lang, units) {
                 minute: '2-digit',
                 timeZone: DATA.time_zone,
             });
-            if (!isDebug()) {
-                save_weather_data(r);
-            }
+            // if (!isDebug()) {
+            //     save_weather_data(r);
+            // }
             /**
              * sit different theme of status
              */
