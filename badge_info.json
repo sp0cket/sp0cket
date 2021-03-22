@@ -154,4 +154,16 @@
   "logo": "Docker",
   "logoColor": "white",
   "link": "https://www.docker.com/"
+}, {
+  "label": "Vim",
+  "bg_color": "#019733",
+  "logo": "Vim",
+  "logoColor": "white",
+  "link": "https://www.vim.org/"
+}, {
+  "label": "WebAssembly",
+  "bg_color": "#654FF0",
+  "logo": "WebAssembly",
+  "logoColor": "white",
+  "link": "https://webassembly.org/"
 }]
