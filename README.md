@@ -53,13 +53,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 March, 2021 - 23 March, 2021
+Week: 17 March, 2021 - 24 March, 2021
 
-Go                16 hrs 36 mins  ████████████░░░░░░░░░░░░░   48.24 % 
-Protocol Buffer   7 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.22 % 
-YAML              4 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Makefile          2 hrs 22 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-SQL               1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+Go                20 hrs 42 mins  █████████████▓░░░░░░░░░░░   54.45 % 
+Protocol Buffer   8 hrs 4 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.24 % 
+YAML              4 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Makefile          2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+SQL               1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 ```
 <!--END_SECTION:waka-->
 
