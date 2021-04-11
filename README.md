@@ -42,11 +42,11 @@
 </p>
 
 <p>
-  Today is <b>Sunday, April 11, 11:07 PM GMT+8</b> <br />
-  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;10n@2x.png" width="20" /> <i>light rain</i>
+  Today is <b>Monday, April 12, 2:18 AM GMT+8</b> <br />
+  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;10n@2x.png" width="20" /> <i>heavy intensity rain</i>
   <li>temperature : <b>16.9 °C</b> , feels like  : <b>17.3 °C</b></br></li>
   <li>humidity    : <b>100%</b> , wind speed  : <b>5 meter&#x2F;sec</b></br></li>
-  <li>sun rises at: <b>05:30 AM</b> , sets at: <b>06:19 PM</b></li>
+  <li>sun rises at: <b>05:29 AM</b> , sets at: <b>06:19 PM</b></li>
 </p>
 
 <p>Recent coding record</p>
