@@ -53,13 +53,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 17 April, 2021 - 24 April, 2021
+Week: 18 April, 2021 - 25 April, 2021
 
-Go                14 hrs 47 mins  █████████████████▒░░░░░░░   68.95 % 
-YAML              2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Protocol Buffer   1 hr 51 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-JavaScript        57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
-JSON              47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Go                14 hrs 31 mins  █████████████████▒░░░░░░░   69.81 % 
+Protocol Buffer   1 hr 51 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+YAML              1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+JavaScript        57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+JSON              47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 <!--END_SECTION:waka-->
 
