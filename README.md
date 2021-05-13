@@ -42,10 +42,10 @@
 </p>
 
 <p>
-  Today is <b>Thursday, May 13, 11:03 PM GMT+8</b> <br />
+  Today is <b>Friday, May 14, 2:19 AM GMT+8</b> <br />
   My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;10n@2x.png" width="20" /> <i>light rain</i>
-  <li>temperature : <b>20.0 °C</b> , feels like  : <b>20.5 °C</b></br></li>
-  <li>humidity    : <b>94%</b> , wind speed  : <b>3.77 meter&#x2F;sec</b></br></li>
+  <li>temperature : <b>20.1 °C</b> , feels like  : <b>20.6 °C</b></br></li>
+  <li>humidity    : <b>95%</b> , wind speed  : <b>2.53 meter&#x2F;sec</b></br></li>
   <li>sun rises at: <b>04:59 AM</b> , sets at: <b>06:41 PM</b></li>
 </p>
 
