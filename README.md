@@ -53,13 +53,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 June, 2021 - 02 July, 2021
+Week: 26 June, 2021 - 03 July, 2021
 
-Go                33 hrs 20 mins  ███████████████████▓░░░░░   78.00 % 
-YAML              4 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Protocol Buffer   3 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-Other             40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Makefile          34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Go                33 hrs 6 mins   ███████████████████▓░░░░░   78.56 % 
+YAML              4 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Protocol Buffer   3 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Other             37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Makefile          33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 <!--END_SECTION:waka-->
 
