@@ -53,13 +53,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 July, 2021 - 11 July, 2021
+Week: 05 July, 2021 - 12 July, 2021
 
-Go                20 hrs 41 mins  ██████████████████▒░░░░░░   73.49 % 
-SQL               2 hrs 56 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Protocol Buffer   2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Makefile          1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-YAML              25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Go                18 hrs 2 mins   █████████████████▓░░░░░░░   70.07 % 
+Protocol Buffer   2 hrs 50 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+SQL               2 hrs 27 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Makefile          1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+YAML              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 <!--END_SECTION:waka-->
 
