@@ -53,12 +53,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 August, 2021 - 20 August, 2021
+Week: 14 August, 2021 - 21 August, 2021
 
-YAML              4 hrs 40 mins   ████████████░░░░░░░░░░░░░   48.36 % 
-Go                4 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.62 % 
-SQL               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Protocol Buffer   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+YAML              4 hrs 38 mins   ████████████░░░░░░░░░░░░░   48.20 % 
+Go                4 hrs 13 mins   ███████████░░░░░░░░░░░░░░   43.77 % 
+SQL               27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Protocol Buffer   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
 Makefile          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 ```
 <!--END_SECTION:waka-->
