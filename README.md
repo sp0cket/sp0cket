@@ -53,7 +53,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 August, 2021 - 02 September, 2021
+Week: 27 August, 2021 - 03 September, 2021
 
 Go                17 hrs 11 mins  ███████████▓░░░░░░░░░░░░░   47.04 % 
 YAML              13 hrs 49 mins  █████████▒░░░░░░░░░░░░░░░   37.84 % 
