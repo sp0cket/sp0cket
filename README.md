@@ -53,13 +53,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2021 - 12 September, 2021
+Week: 06 September, 2021 - 13 September, 2021
 
-Go           9 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   42.33 % 
-YAML         5 hrs 40 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.70 % 
-Other        2 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-JavaScript   1 hr 18 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-SQL          1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Go           10 hrs 2 mins   ████████████░░░░░░░░░░░░░   47.67 % 
+YAML         4 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.04 % 
+Other        2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JavaScript   1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+SQL          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
 <!--END_SECTION:waka-->
 
