@@ -53,13 +53,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2021 - 14 September, 2021
+Week: 08 September, 2021 - 15 September, 2021
 
-Go                7 hrs 27 mins   █████████▒░░░░░░░░░░░░░░░   37.89 % 
-YAML              4 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.72 % 
-Other             2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Protocol Buffer   1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-JavaScript        1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Go                7 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.52 % 
+YAML              5 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.23 % 
+Other             2 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Protocol Buffer   1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+JavaScript        1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
 ```
 <!--END_SECTION:waka-->
 
