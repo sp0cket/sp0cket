@@ -53,13 +53,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2021 - 20 September, 2021
+Week: 14 September, 2021 - 21 September, 2021
 
-Go                6 hrs 7 mins    ██████████▒░░░░░░░░░░░░░░   41.58 % 
-YAML              2 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Other             1 hr 23 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Protocol Buffer   1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Python            1 hr 1 min      █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Go           4 hrs 12 mins   █████████▓░░░░░░░░░░░░░░░   38.76 % 
+YAML         2 hrs 34 mins   ██████░░░░░░░░░░░░░░░░░░░   23.83 % 
+Other        1 hr 21 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Python       1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Git Config   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 ```
 <!--END_SECTION:waka-->
 
