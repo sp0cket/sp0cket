@@ -53,12 +53,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 September, 2021 - 26 September, 2021
+Week: 20 September, 2021 - 27 September, 2021
 
-YAML       6 hrs 22 mins   ████████████████████████▒   97.44 % 
-Makefile   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-SQL        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Go         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+YAML       7 hrs 20 mins   ████████████████████████▒   97.18 % 
+Makefile   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+SQL        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Go         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 <!--END_SECTION:waka-->
 
