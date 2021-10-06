@@ -53,11 +53,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 September, 2021 - 04 October, 2021
+Week: 28 September, 2021 - 05 October, 2021
 
-YAML     4 hrs 6 mins    ██████████████████████░░░   87.55 % 
-Docker   23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-Other    11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+YAML   50 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
