@@ -53,9 +53,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 September, 2021 - 06 October, 2021
-
-YAML   30 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
