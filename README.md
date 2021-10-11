@@ -53,11 +53,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 October, 2021 - 09 October, 2021
+Week: 03 October, 2021 - 10 October, 2021
 
-Go           57 mins         █████████████▓░░░░░░░░░░░   54.93 % 
-YAML         28 mins         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-JavaScript   16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+YAML         58 mins         ███████████░░░░░░░░░░░░░░   43.82 % 
+Go           57 mins         ██████████▓░░░░░░░░░░░░░░   42.61 % 
+JavaScript   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
 ```
 <!--END_SECTION:waka-->
 
