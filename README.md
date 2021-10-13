@@ -53,12 +53,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2021 - 11 October, 2021
+Week: 05 October, 2021 - 12 October, 2021
 
-YAML         2 hrs 48 mins   ████████████████▒░░░░░░░░   64.97 % 
-Go           57 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.16 % 
-JavaScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
-Docker       14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+YAML         4 hrs 22 mins   █████████████████▒░░░░░░░   68.92 % 
+Go           57 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Docker       41 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+JavaScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 ```
 <!--END_SECTION:waka-->
 
