@@ -53,7 +53,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 October, 2021 - 06 November, 2021
+Week: 31 October, 2021 - 07 November, 2021
 
 YAML              6 hrs 16 mins   ███████████████▒░░░░░░░░░   61.52 % 
 Go                2 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.11 % 
