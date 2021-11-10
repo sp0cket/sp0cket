@@ -53,13 +53,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2021 - 08 November, 2021
+Week: 02 November, 2021 - 09 November, 2021
 
-YAML              5 hrs 32 mins   ███████████████▓░░░░░░░░░   62.41 % 
-Go                2 hrs 18 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.94 % 
-Protocol Buffer   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-SQL               18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Python            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+YAML              4 hrs 21 mins   ██████████████▓░░░░░░░░░░   58.50 % 
+Go                2 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.58 % 
+Protocol Buffer   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+SQL               17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+JSON              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 <!--END_SECTION:waka-->
 
