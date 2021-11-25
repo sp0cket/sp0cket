@@ -17,7 +17,7 @@ jobs:
       - name: checkout
         uses: actions/checkout@v1
       - name: update by anmol098/waka-readme-stats
-        uses: anmol098/waka-readme-stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_PROJECTS: False
