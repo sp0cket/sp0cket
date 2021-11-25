@@ -1,5 +1,5 @@
 <h1>Hey! <img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif" width="30" />
-  My name is sp0cket, nice to see you !</h1>
+  My name is test, nice to see you !</h1>
 
 <h3>Things I code with</h3>
 
@@ -27,18 +27,23 @@
   <a href="https://dev.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4579A1?logo=MySQL&logoColor=white&style="/></a>
   <a href="https://flutter.dev/"><img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white&style="/></a>
   <a href="https://docs.microsoft.com/dotnet/csharp/"><img alt="Csharp" src="https://img.shields.io/badge/-Csharp-239120?logo=C%20sharp&logoColor=white&style="/></a>
+  <a href="https://www.swift.com/"><img alt="Swift" src="https://img.shields.io/badge/-Swift-DF5C43?logo=Swift&logoColor=white&style="/></a>
+  <a href="https://kubernetes.io/"><img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=white&style="/></a>
+  <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style="/></a>
+  <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=white&style="/></a>
+  <a href="https://webassembly.org/"><img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-654FF0?logo=WebAssembly&logoColor=white&style="/></a>
   
 </p>
 
 <p align="center">
-  <a href="https://github.com/sp0cket">
-    <img src="https://github-readme-stats.vercel.app/api?username=sp0cket&show_icons=true&theme=buefy" />
+  <a href="https://github.com/test">
+    <img src="https://github-readme-stats.vercel.app/api?username=test&show_icons=true&theme=dracula" />
   </a>
 </p>
 
 <p>
-  Today is <b>Friday, February 12, 3:34 PM GMT+8</b> <br />
-  My current city <b>Chengdu, CN</b> weather is: <img src="" width="20" /> <i></i>
+  Today is <b>Friday, November 26, 12:13 AM GMT+8</b> <br />
+  My current city <b>Shanghai, CN</b> weather is: <img src="" width="20" /> <i></i>
   <li>temperature : <b> °C</b> , feels like  : <b> °C</b></br></li>
   <li>humidity    : <b>%</b> , wind speed  : <b> meter&#x2F;sec</b></br></li>
   <li>sun rises at: <b></b> , sets at: <b></b></li>
@@ -53,8 +58,8 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 <p align="right">
-  <a href="https://github.com/sp0cket/sp0cket/actions">
+  <a href="https://github.com/test/test/actions">
     <img alt="build-README.md"
-      src="https://github.com/sp0cket/sp0cket/workflows/build-README.md/badge.svg?branch=main">
+      src="https://github.com/test/test/workflows/build-README.md/badge.svg?branch=main">
   </a>
 </p>
