@@ -42,18 +42,24 @@
 </p>
 
 <p>
-  Today is <b>Friday, November 26, 12:15 AM GMT+8</b> <br />
-  My current city <b>Shanghai, CN</b> weather is: <img src="" width="20" /> <i></i>
-  <li>temperature : <b> °C</b> , feels like  : <b> °C</b></br></li>
-  <li>humidity    : <b>%</b> , wind speed  : <b> meter&#x2F;sec</b></br></li>
-  <li>sun rises at: <b></b> , sets at: <b></b></li>
+  Today is <b>Thursday, November 25, 11:03 PM GMT+8</b> <br />
+  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" width="20" /> <i>clear sky</i>
+  <li>temperature : <b>12.7 °C</b> , feels like  : <b>11.4 °C</b></br></li>
+  <li>humidity    : <b>55%</b> , wind speed  : <b>2 meter&#x2F;sec</b></br></li>
+  <li>sun rises at: <b>06:30 AM</b> , sets at: <b>04:52 PM</b></li>
 </p>
 
 <p>Recent coding record</p>
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 November, 2021 - 24 November, 2021
+
+Go         16 hrs 15 mins  ████████████████▓░░░░░░░░   66.10 % 
+YAML       4 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
+Makefile   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+SQL        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Markdown   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 <!--END_SECTION:waka-->
 
