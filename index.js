@@ -7,13 +7,13 @@ const querystring = require('querystring');
 const fetch = require('node-fetch');
 const Mustache = require('mustache');
 const moment = require('moment-timezone');
-const fsUtils = require("nodejs-fs-utils");
+const fsUtils = require('nodejs-fs-utils');
 const lineByLine = require('n-readlines');
 // const lineReader = require('line-reader');
 // const sleep = require('sleep');
 
 function isDebug() {
-    return process.env.RUN_MODE && process.env.RUN_MODE !== 'prod'
+    return process.env.RUN_MODE && process.env.RUN_MODE !== 'prod';
 }
 
 /**
@@ -31,7 +31,7 @@ let DATA = {
         waka: [],
     },
     show_travis: false,
-    code_with_list: []
+    code_with_list: [],
 };
 
 /**
@@ -52,15 +52,15 @@ async function mergeConfig() {
         hour: 'numeric',
         minute: 'numeric',
         timeZoneName: 'short',
-        timeZone: DATA.time_zone
-    })
+        timeZone: DATA.time_zone,
+    });
 
     if (process.env.GITHUB_ACTOR) {
-        DATA.name = process.env.GITHUB_ACTOR
+        DATA.name = process.env.GITHUB_ACTOR;
     }
 
     if (process.env.CITY_NAME) {
-        DATA.city = process.env.CITY_NAME
+        DATA.city = process.env.CITY_NAME;
     }
 
     if (isDebug()) {
@@ -68,16 +68,26 @@ async function mergeConfig() {
     }
 
     if (!DATA.name) {
-        console.log(new Error('error: index.json not set name, or not set env GITHUB_ACTOR, this env will auto include when run as github action.'));
+        console.log(
+            new Error(
+                'error: index.json not set name, or not set env GITHUB_ACTOR, this env will auto include when run as github action.'
+            )
+        );
         process.exit(128);
     }
 
     if (!DATA.city) {
-        console.log(new Error('error: index.json not set city, or not set env CITY_NAME'));
+        console.log(
+            new Error(
+                'error: index.json not set city, or not set env CITY_NAME'
+            )
+        );
         process.exit(128);
     }
     if (!process.env.OPEN_WEATHER_MAP_KEY) {
-        console.log('Warning not set env OPEN_WEATHER_MAP_KEY , please add as https://home.openweathermap.org/api_keys');
+        console.log(
+            'Warning not set env OPEN_WEATHER_MAP_KEY , please add as https://home.openweathermap.org/api_keys'
+        );
     }
 }
 
@@ -92,18 +102,18 @@ function urlShieldBadge(info) {
         bg_color: '00ACD7',
         logo: 'go',
         logoColor: 'white',
-        style: 'flat-square'
+        style: 'flat-square',
     };
     extend(defaultInfo, info);
     info.bg_color = info.bg_color.replace('#', '');
     info.logoColor = info.logoColor.replace('#', '');
-    return `https://img.shields.io/badge/-${info.label}-${info.bg_color}?${querystring.stringify(
-        {
-            logo: info.logo,
-            logoColor: info.logoColor,
-            style: info.style
-        }
-    )}`
+    return `https://img.shields.io/badge/-${info.label}-${
+        info.bg_color
+    }?${querystring.stringify({
+        logo: info.logo,
+        logoColor: info.logoColor,
+        style: info.style,
+    })}`;
 }
 
 function shieldBadgeHtml(info) {
@@ -112,9 +122,11 @@ function shieldBadgeHtml(info) {
     };
     extend(defaultHtmlInfo, info);
     if (info.link) {
-        return `<a href="${info.link}"><img alt="${info.label}" src="${urlShieldBadge(info)}"/></a>`
+        return `<a href="${info.link}"><img alt="${
+            info.label
+        }" src="${urlShieldBadge(info)}"/></a>`;
     }
-    return `<img alt="${info.label}" src="${urlShieldBadge(info)}"/>`
+    return `<img alt="${info.label}" src="${urlShieldBadge(info)}"/>`;
 }
 
 /**
@@ -130,13 +142,13 @@ function urlShieldStatic(info) {
         color: '273238',
         logo: 'go',
         logoColor: '00ACD7',
-        style: 'flat-square'
+        style: 'flat-square',
     };
     extend(defaultInfo, info);
     // delete info.link
     info.color = info.color.replace('#', '');
     info.logoColor = info.logoColor.replace('#', '');
-    return `https://img.shields.io/static/v1?${querystring.stringify(info)}`
+    return `https://img.shields.io/static/v1?${querystring.stringify(info)}`;
 }
 
 function shieldStaticHTML(info) {
@@ -145,26 +157,26 @@ function shieldStaticHTML(info) {
     };
     extend(defaultInfo, info);
     if (info.link) {
-        return `<a href="${info.link}"><img alt="${info.label}" src="${urlShieldStatic(info)}"/></a>`
+        return `<a href="${info.link}"><img alt="${
+            info.label
+        }" src="${urlShieldStatic(info)}"/></a>`;
     }
-    return `<img alt="${info.label}" src="${urlShieldStatic(info)}"/>`
+    return `<img alt="${info.label}" src="${urlShieldStatic(info)}"/>`;
 }
-
 
 async function getImgShields() {
     if (DATA.code_with_badge) {
         for (let i in DATA.code_with_badge) {
-            DATA.code_with_list.push(shieldBadgeHtml(DATA.code_with_badge[i]))
+            DATA.code_with_list.push(shieldBadgeHtml(DATA.code_with_badge[i]));
         }
     }
 }
 
 async function cacheWakaOldData() {
-
     let liner = new lineByLine('README.md');
     let line;
     let nextCache = false;
-    while (line = liner.next()) {
+    while ((line = liner.next())) {
         if (line.toString().indexOf(`<!--END_SECTION:waka-->`) !== -1) {
             nextCache = false;
         }
@@ -206,10 +218,19 @@ async function keepReadMeData() {
      * must load env as OPEN_WEATHER_MAP_KEY
      */
     if (process.env.OPEN_WEATHER_MAP_KEY) {
-        setWeatherInformation(DATA.city, process.env.OPEN_WEATHER_MAP_KEY, DATA.lang, DATA.units);
+        setWeatherInformation(
+            DATA.city,
+            process.env.OPEN_WEATHER_MAP_KEY,
+            DATA.lang,
+            DATA.units
+        );
     } else {
         console.log('warn: pass weather generate');
-        switchThemeByTime(DATA.time_zone, DATA.sun_rise_timestamp, DATA.sun_set_timestamp);
+        switchThemeByTime(
+            DATA.time_zone,
+            DATA.sun_rise_timestamp,
+            DATA.sun_set_timestamp
+        );
         generateReadMe();
     }
 }
@@ -223,17 +244,30 @@ async function keepReadMeData() {
  */
 async function setWeatherInformation(city, appid, lang, units) {
     if (!appid) {
-        return
+        return;
     }
 
     async function save_weather_data(data) {
         let date_f = moment().tz(DATA.time_zone);
-        let saveDir = fs_path.resolve(fs_path.join('.', 'weather_data', date_f.format('yyyy'), date_f.format('MM'), date_f.format('DD')));
+        let saveDir = fs_path.resolve(
+            fs_path.join(
+                '.',
+                'weather_data',
+                date_f.format('yyyy'),
+                date_f.format('MM'),
+                date_f.format('DD')
+            )
+        );
         if (!fs.existsSync(saveDir)) {
             // console.log(`saveDir ennd mkdir ${saveDir}`);
             fsUtils.mkdirsSync(saveDir);
         }
-        let saveFile = fs_path.join(saveDir, `weather-data-${date_f.format('yyyy')}-${date_f.format('MM')}-${date_f.format('DD')}.json`);
+        let saveFile = fs_path.join(
+            saveDir,
+            `weather-data-${date_f.format('yyyy')}-${date_f.format(
+                'MM'
+            )}-${date_f.format('DD')}.json`
+        );
         // console.log(saveFile);
         let saveData = [];
         if (fs.existsSync(saveFile)) {
@@ -244,15 +278,17 @@ async function setWeatherInformation(city, appid, lang, units) {
         }
         saveData.push({
             date: moment().format(),
-            weather: data
+            weather: data,
         });
         fs.writeFileSync(saveFile, JSON.stringify(saveData, null, 2));
     }
 
-    let openweathermap_url = `https://api.openweathermap.org/data/2.5/weather?${querystring.stringify({q: city})}&appid=${appid}&lang=${lang}&units=${units}`
+    let openweathermap_url = `https://api.openweathermap.org/data/2.5/weather?${querystring.stringify(
+        { q: city }
+    )}&appid=${appid}&lang=${lang}&units=${units}`;
     await fetch(openweathermap_url)
-        .then(r => r.json())
-        .then(r => {
+        .then((r) => r.json())
+        .then((r) => {
             DATA.city_temperature = r.main.temp.toFixed(1);
             DATA.city_feels_like = r.main.feels_like.toFixed(1);
             DATA.city_humidity = r.main.humidity;
@@ -260,29 +296,43 @@ async function setWeatherInformation(city, appid, lang, units) {
             DATA.city_weather = r.weather[0].description;
             DATA.wind_speed = r.wind.speed;
             DATA.sun_rise_timestamp = r.sys.sunrise * 1000;
-            DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString(DATA.i18n_name, {
-                hour: '2-digit',
-                minute: '2-digit',
-                timeZone: DATA.time_zone,
-            });
+            DATA.sun_rise = new Date(r.sys.sunrise * 1000).toLocaleString(
+                DATA.i18n_name,
+                {
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    timeZone: DATA.time_zone,
+                }
+            );
             DATA.sun_set_timestamp = r.sys.sunset * 1000;
-            DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString(DATA.i18n_name, {
-                hour: '2-digit',
-                minute: '2-digit',
-                timeZone: DATA.time_zone,
-            });
+            DATA.sun_set = new Date(r.sys.sunset * 1000).toLocaleString(
+                DATA.i18n_name,
+                {
+                    hour: '2-digit',
+                    minute: '2-digit',
+                    timeZone: DATA.time_zone,
+                }
+            );
             // if (!isDebug()) {
             //     save_weather_data(r);
             // }
             /**
              * sit different theme of status
              */
-            switchThemeByTime(DATA.time_zone, DATA.sun_rise_timestamp, DATA.sun_set_timestamp);
+            switchThemeByTime(
+                DATA.time_zone,
+                DATA.sun_rise_timestamp,
+                DATA.sun_set_timestamp
+            );
             generateReadMe();
         });
 }
 
-async function switchThemeByTime(timezone = "America/Los_Angeles", sun_rise_timestamp = 0, sun_set_timestamp = 0) {
+async function switchThemeByTime(
+    timezone = 'America/Los_Angeles',
+    sun_rise_timestamp = 0,
+    sun_set_timestamp = 0
+) {
     let sun_rise = 7;
     if (sun_rise_timestamp != 0) {
         sun_rise = Number(moment(sun_rise_timestamp).tz(timezone).format('H'));
@@ -293,11 +343,11 @@ async function switchThemeByTime(timezone = "America/Los_Angeles", sun_rise_time
     }
     let currentHour = moment().tz(timezone).format('H');
     // console.log('sun_rise', sun_rise, 'sun_set', sun_set, 'currentHour', currentHour, currentHour >= sun_set, currentHour < sun_rise);
-    let nightModeApplicable = (currentHour >= sun_set || currentHour < sun_rise) ? true : false;
+    let nightModeApplicable = currentHour >= sun_set || currentHour < sun_rise;
     if (nightModeApplicable) {
-        DATA.github_readme_stats_url = `https://github-readme-stats.vercel.app/api?username=${DATA.name}&show_icons=true&theme=dracula`
+        DATA.github_readme_stats_url = `https://github-readme-stats.vercel.app/api?username=${DATA.name}&show_icons=true&theme=dracula`;
     } else {
-        DATA.github_readme_stats_url = `https://github-readme-stats.vercel.app/api?username=${DATA.name}&show_icons=true&theme=buefy`
+        DATA.github_readme_stats_url = `https://github-readme-stats.vercel.app/api?username=${DATA.name}&show_icons=true&theme=buefy`;
     }
 }
 
@@ -317,15 +367,19 @@ async function generateReadMe() {
 }
 
 async function writeKeepData(path, content) {
-    console.log(`writeKeepData DATA.readme_cache.waka:\n${DATA.readme_cache.waka.join('\n')}`);
+    console.log(
+        `writeKeepData DATA.readme_cache.waka:\n${DATA.readme_cache.waka.join(
+            '\n'
+        )}`
+    );
     if (DATA.readme_cache.waka.length !== 0) {
-        let fullContent = []
+        let fullContent = [];
         let writeCache = false;
         if (isDebug()) {
             console.log(`writeKeepData content:\n${content}`);
         }
         let oldContent = content.toString().split('\n');
-        oldContent.forEach(line => {
+        oldContent.forEach((line) => {
             fullContent.push(line.toString());
             if (line.toString().indexOf(`<!--START_SECTION:waka-->`) !== -1) {
                 writeCache = true;
@@ -369,7 +423,6 @@ async function writeKeepData(path, content) {
  * do github action
  */
 async function action() {
-
     /**
      * first merge config
      */
@@ -386,6 +439,4 @@ async function action() {
     // await puppeteerService.close();
 }
 
-action().then(r => {
-
-});
+action().then((r) => {});
