@@ -1,16 +1,17 @@
-require('dotenv').config();
-
-const fs = require('fs');
-const fs_path = require('path');
-const extend = require('extend');
-const querystring = require('querystring');
+import dotenv from 'dotenv';
+import * as fs from 'fs';
+import extend from 'extend';
+import querystring from 'querystring';
 import fetch from 'node-fetch';
-const Mustache = require('mustache');
-const moment = require('moment-timezone');
-const fsUtils = require('nodejs-fs-utils');
-const lineByLine = require('n-readlines');
+import Mustache from 'mustache';
+import moment from 'moment-timezone';
+import fsUtils from 'nodejs-fs-utils';
+import lineByLine from 'n-readlines';
+
 // const lineReader = require('line-reader');
 // const sleep = require('sleep');
+
+dotenv.config();
 
 function isDebug() {
     return process.env.RUN_MODE && process.env.RUN_MODE !== 'prod';
@@ -404,7 +405,7 @@ async function writeKeepData(path, content) {
         //     }
         // }
 
-        fullReadme = fullContent.join('\n');
+        let fullReadme = fullContent.join('\n');
         if (isDebug()) {
             console.log(`write fullContent:\n${fullReadme}`);
         }
