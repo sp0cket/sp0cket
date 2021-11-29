@@ -1,39 +1,40 @@
 {
-  "name": "sinlov",
-  "version": "1.7.3",
-  "description": "dynamic README.md for GitHub Profile, using Actions, Javascript and Mustache.",
-  "main": "index.js",
-  "scripts": {
-    "clean:rimraf": "rimraf node_modules package-lock.json",
-    "start": "node index.js",
-    "predev": "npm install",
-    "dev": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sinlov/sinlov.git"
-  },
-  "keywords": [
-    "readme.md",
-    "github",
-    "actions",
-    "dynamic",
-    "javascript"
-  ],
-  "author": "sinlov",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sinlov/sinlov/issues"
-  },
-  "homepage": "https://github.com/sinlov/sinlov#readme",
-  "dependencies": {
-    "dotenv": "^10.0.0",
-    "extend": "^3.0.2",
-    "moment-timezone": "^0.5.34",
-    "mustache": "^4.2.0",
-    "n-readlines": "^1.0.1",
-    "node-fetch": "^3.1.0",
-    "nodejs-fs-utils": "^1.2.5"
-  }
+    "name": "sinlov",
+    "version": "1.7.3",
+    "description": "dynamic README.md for GitHub Profile, using Actions, Javascript and Mustache.",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "clean:rimraf": "rimraf node_modules package-lock.json",
+        "start": "node index.js",
+        "predev": "npm install",
+        "dev": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sinlov/sinlov.git"
+    },
+    "keywords": [
+        "readme.md",
+        "github",
+        "actions",
+        "dynamic",
+        "javascript"
+    ],
+    "author": "sinlov",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sinlov/sinlov/issues"
+    },
+    "homepage": "https://github.com/sinlov/sinlov#readme",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "extend": "^3.0.2",
+        "moment-timezone": "^0.5.34",
+        "mustache": "^4.2.0",
+        "n-readlines": "^1.0.1",
+        "node-fetch": "^3.1.0",
+        "nodejs-fs-utils": "^1.2.5"
+    }
 }
