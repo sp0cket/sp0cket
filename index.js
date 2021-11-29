@@ -4,7 +4,7 @@ const fs = require('fs');
 const fs_path = require('path');
 const extend = require('extend');
 const querystring = require('querystring');
-const fetch = import('node-fetch');
+import fetch from 'node-fetch';
 const Mustache = require('mustache');
 const moment = require('moment-timezone');
 const fsUtils = require('nodejs-fs-utils');
