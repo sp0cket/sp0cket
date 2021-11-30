@@ -52,15 +52,26 @@
 <p>Recent coding record</p>
 
 <!--START_SECTION:waka-->
-```text
-Week: 17 November, 2021 - 24 November, 2021
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-Go         16 hrs 15 mins  ████████████████▓░░░░░░░░   66.10 % 
-YAML       4 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Makefile   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-SQL        46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Markdown   37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-```
+**🐱 My GitHub Data** 
+
+> 🏆 2,373 Contributions in the Year 2021
+ > 
+> 📦 9.6 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 60 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/sp0cket/sp0cket/main/charts/bar_graph.png) 
+
+
+ Last Updated on 30/11/2021
 <!--END_SECTION:waka-->
 
 <p align="right">
