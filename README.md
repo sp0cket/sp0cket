@@ -32,6 +32,7 @@
   <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white&style="/></a>
   <a href="https://www.vim.org/"><img alt="Vim" src="https://img.shields.io/badge/-Vim-019733?logo=Vim&logoColor=white&style="/></a>
   <a href="https://webassembly.org/"><img alt="WebAssembly" src="https://img.shields.io/badge/-WebAssembly-654FF0?logo=WebAssembly&logoColor=white&style="/></a>
+  <a href="https://www.rust-lang.org/"><img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?logo=Rust&logoColor=white&style="/></a>
   
 </p>
 
@@ -42,7 +43,7 @@
 </p>
 
 <p>
-  Today is <b>Tuesday, November 30, 7:36 PM GMT+8</b> <br />
+  Today is <b>Tuesday, November 30, 7:37 PM GMT+8</b> <br />
   My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" width="20" /> <i>clear sky</i>
   <li>temperature : <b>9.1 °C</b> , feels like  : <b>9.1 °C</b></br></li>
   <li>humidity    : <b>43%</b> , wind speed  : <b>0.89 meter&#x2F;sec</b></br></li>
