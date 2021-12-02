@@ -57,7 +57,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,395 Contributions in the Year 2021
+> 🏆 2,416 Contributions in the Year 2021
  > 
 > 📦 9.7 kB Used in GitHub's Storage 
  > 
@@ -72,7 +72,7 @@
 ![Chart not found](https://raw.githubusercontent.com/sp0cket/sp0cket/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 02/12/2021
 <!--END_SECTION:waka-->
 
 <p align="right">
