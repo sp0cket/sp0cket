@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 November, 2021 - 05 December, 2021
+Week: 30 November, 2021 - 06 December, 2021
 
-Go           28 hrs 51 mins  █████████████████▒░░░░░░░   69.09 % 
-YAML         6 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Cheetah      51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-Makefile     40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-JavaScript   38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Go         29 hrs 26 mins  █████████████████▒░░░░░░░   69.06 % 
+YAML       7 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.13 % 
+Cheetah    1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+SQL        45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Makefile   40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 <!--END_SECTION:waka-->
 
