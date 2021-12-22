@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
-Go        33 hrs 48 mins  █████████████████▓░░░░░░░   70.19 % 
-YAML      6 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Docker    2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Cheetah   1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-SQL       1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Go        29 hrs 44 mins  ████████████████▒░░░░░░░░   65.77 % 
+YAML      6 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Docker    3 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Cheetah   1 hr 41 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+SQL       1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 ```
 <!--END_SECTION:waka-->
 
