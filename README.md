@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
-Go                29 hrs 52 mins  ██████████████████▓░░░░░░   74.63 % 
-YAML              7 hrs 58 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-Makefile          1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-protobuf          15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-Protocol Buffer   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Go         29 hrs 7 mins   █████████████████▒░░░░░░░   69.35 % 
+YAML       9 hrs 41 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.07 % 
+Makefile   1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Docker     39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+protobuf   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 <!--END_SECTION:waka-->
 
