@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
-Go         15 hrs 7 mins   █████████████████░░░░░░░░   67.39 % 
-YAML       4 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-protobuf   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Docker     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-Makefile   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Go         9 hrs 5 mins    ██████████████░░░░░░░░░░░   56.64 % 
+YAML       4 hrs 23 mins   ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Docker     46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+protobuf   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Makefile   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 ```
 <!--END_SECTION:waka-->
 
