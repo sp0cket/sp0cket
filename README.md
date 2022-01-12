@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 January, 2022 - 10 January, 2022
+Week: 05 January, 2022 - 11 January, 2022
 
-Go         31 hrs 55 mins  █████████████████░░░░░░░░   67.37 % 
-YAML       8 hrs 15 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Cheetah    1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-Makefile   1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Docker     1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Go         34 hrs 44 mins  █████████████████░░░░░░░░   67.78 % 
+YAML       8 hrs 22 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Cheetah    2 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+Makefile   1 hr 38 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Docker     59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 <!--END_SECTION:waka-->
 
