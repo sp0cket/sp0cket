@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
-Go           26 hrs 47 mins  ██████████████▓░░░░░░░░░░   58.37 % 
-YAML         7 hrs 37 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-TypeScript   3 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Makefile     1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Cheetah      1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Go           30 hrs 59 mins  ███████████████░░░░░░░░░░   59.41 % 
+YAML         7 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+TypeScript   5 hrs 18 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Cheetah      1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Makefile     1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 <!--END_SECTION:waka-->
 
