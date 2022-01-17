@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
-Go           34 hrs 3 mins   ████████████████░░░░░░░░░   64.60 % 
-TypeScript   6 hrs 40 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-YAML         5 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-Cheetah      1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-JSON         1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Go           30 hrs 17 mins  █████████████████▒░░░░░░░   68.70 % 
+TypeScript   6 hrs 40 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+YAML         3 hrs 19 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+JSON         1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+SQL          46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
 
