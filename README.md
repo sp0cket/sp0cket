@@ -54,7 +54,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 January, 2022 - 19 January, 2022
+Week: 14 January, 2022 - 20 January, 2022
 
 Go           29 hrs 31 mins  ████████████████▒░░░░░░░░   65.97 % 
 YAML         7 hrs 58 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.84 % 
