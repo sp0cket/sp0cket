@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
+Week: 29 January, 2022 - 04 February, 2022
 
-Go                7 hrs 29 mins   █████████████████▒░░░░░░░   69.67 % 
-SQL               1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Protocol Buffer   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-YAML              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-protobuf          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Go                8 hrs 50 mins   ██████████████████▓░░░░░░   75.16 % 
+SQL               1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Protocol Buffer   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+YAML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+protobuf          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 <!--END_SECTION:waka-->
 
