@@ -54,7 +54,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 30 January, 2022 - 05 February, 2022
+Week: 31 January, 2022 - 06 February, 2022
 
 Go                10 hrs 42 mins  ████████████████████░░░░░   80.46 % 
 SQL               1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
