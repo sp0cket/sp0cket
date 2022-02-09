@@ -54,13 +54,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
-Go                9 hrs 39 mins   █████████████████████▒░░░   85.76 % 
-Protocol Buffer   22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-Other             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-YAML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-protobuf          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Go                10 hrs 40 mins  █████████████████████░░░░   83.64 % 
+YAML              41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Protocol Buffer   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Other             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+protobuf          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
