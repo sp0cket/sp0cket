@@ -54,7 +54,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
 Go       13 hrs 58 mins  █████████████████████▓░░░   86.63 % 
 YAML     1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
