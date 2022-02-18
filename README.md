@@ -54,15 +54,15 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 16 February, 2022
+Week: 11 February, 2022 - 17 February, 2022
 
-Total: 18 hrs 46 mins
+Total: 15 hrs 2 mins
 
-Go         15 hrs 39 mins  ████████████████████░░░░░   80.17 % 
-YAML       1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Other      45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-SQL        37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-Makefile   31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Go         12 hrs 42 mins  ████████████████████▒░░░░   81.34 % 
+SQL        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Other      34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Makefile   31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+YAML       26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 ```
 <!--END_SECTION:waka-->
 
