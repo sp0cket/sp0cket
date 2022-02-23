@@ -54,13 +54,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 13 February, 2022 - To: 20 February, 2022
+From: 15 February, 2022 - To: 22 February, 2022
 
-Go      3 hrs 18 mins   ██████████████▒░░░░░░░░░░   56.99 % 
-YAML    1 hr 27 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.06 % 
-Other   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-SQL     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-JSON    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Go                2 hrs 12 mins   ████████████████░░░░░░░░░   64.21 % 
+YAML              1 hr 5 mins     ████████░░░░░░░░░░░░░░░░░   31.68 % 
+JSON              4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Protocol Buffer   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
 
