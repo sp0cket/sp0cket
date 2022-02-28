@@ -53,15 +53,18 @@
 <p>Recent coding record</p>
 
 <!--START_SECTION:waka-->
-```text
-From: 19 February, 2022 - To: 26 February, 2022
 
-Go        2 hrs 50 mins   ████████████▒░░░░░░░░░░░░   48.71 % 
-YAML      1 hr 59 mins    ████████▒░░░░░░░░░░░░░░░░   33.90 % 
-Docker    25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Bash      22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-Cheetah   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Go               2 hrs 50 mins   ████████████▒░░░░░░░░░░░░   48.71 %
+YAML             1 hr 59 mins    ████████▒░░░░░░░░░░░░░░░░   33.90 %
+Docker           25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
+Bash             22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Cheetah          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+go.mod           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="right">
