@@ -43,11 +43,11 @@
 </p>
 
 <p>
-  Today is <b>Wednesday, March 16, 11:04 PM GMT+8</b> <br />
-  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;02n@2x.png" width="20" /> <i>few clouds</i>
-  <li>temperature : <b>19.1 °C</b> , feels like  : <b>19.2 °C</b></br></li>
-  <li>humidity    : <b>81%</b> , wind speed  : <b>6 meter&#x2F;sec</b></br></li>
-  <li>sun rises at: <b>06:03 AM</b> , sets at: <b>06:02 PM</b></li>
+  Today is <b>Thursday, March 17, 2:07 AM GMT+8</b> <br />
+  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04n@2x.png" width="20" /> <i>broken clouds</i>
+  <li>temperature : <b>19.6 °C</b> , feels like  : <b>19.7 °C</b></br></li>
+  <li>humidity    : <b>81%</b> , wind speed  : <b>3 meter&#x2F;sec</b></br></li>
+  <li>sun rises at: <b>06:02 AM</b> , sets at: <b>06:02 PM</b></li>
 </p>
 
 <p>Recent coding record</p>
