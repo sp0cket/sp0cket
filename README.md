@@ -55,14 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2022 - To: 23 April 2022
+From: 17 April 2022 - To: 24 April 2022
 
-Go                41 hrs          ███████████████████░░░░░░   75.43 %
-Protocol Buffer   3 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
-protobuf          2 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-YAML              1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-SQL               1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Docker            1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Go                37 hrs 43 mins  ██████████████████▓░░░░░░   74.43 %
+Protocol Buffer   3 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+protobuf          2 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+YAML              1 hr 58 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+SQL               1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Docker            1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
