@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 April 2022 - To: 27 April 2022
+From: 21 April 2022 - To: 28 April 2022
 
-Go                22 hrs 37 mins  ███████████████████▓░░░░░   79.18 %
-Protocol Buffer   1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
-protobuf          1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-YAML              1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Other             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Go                17 hrs 15 mins  ██████████████████▓░░░░░░   75.22 %
+Protocol Buffer   1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+protobuf          1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+YAML              1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Other             42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
 
 <!--END_SECTION:waka-->
