@@ -55,13 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
+From: 28 April 2022 - To: 05 May 2022
 
-Go                51 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.86 %
-Rust              27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
-Protocol Buffer   26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-TypeScript        21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-Other             20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Rust              27 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+TypeScript        21 mins         █████░░░░░░░░░░░░░░░░░░░░   20.53 %
+Other             20 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
 ```
 
 <!--END_SECTION:waka-->
