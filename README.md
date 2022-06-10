@@ -55,11 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-Go       1 hr 27 mins    █████████████████████████   100.00 %
-SQL      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-go.mod   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go   24 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
