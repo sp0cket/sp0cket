@@ -55,14 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2022 - To: 22 August 2022
+From: 16 August 2022 - To: 23 August 2022
 
-Go               4 hrs 13 mins   █████████▓░░░░░░░░░░░░░░░   38.92 %
-YAML             1 hr 59 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-Rust             1 hr 54 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
-Docker           1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
-Makefile         1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
-GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Go               4 hrs 24 mins   █████████████▓░░░░░░░░░░░   54.18 %
+Rust             1 hr 54 mins    ██████░░░░░░░░░░░░░░░░░░░   23.57 %
+YAML             1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
+Makefile         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+GitIgnore file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Docker           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
 ```
 
 <!--END_SECTION:waka-->
