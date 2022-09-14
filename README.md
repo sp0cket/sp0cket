@@ -55,12 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 September 2022 - To: 12 September 2022
+From: 06 September 2022 - To: 13 September 2022
 
-Go         39 mins         █████████████▒░░░░░░░░░░░   52.95 %
-YAML       23 mins         ████████░░░░░░░░░░░░░░░░░   31.88 %
-Makefile   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
-Docker     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Go         2 hrs 13 mins   ███████████████░░░░░░░░░░   60.31 %
+Makefile   48 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.08 %
+YAML       23 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Docker     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
