@@ -55,11 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 21 September 2022 - To: 28 September 2022
 
-Go               28 hrs 25 mins  ████████████████████████░   95.51 %
-YAML             58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Other            9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Go               24 hrs 10 mins  ███████████████████████░░   92.49 %
+YAML             1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Other            9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
