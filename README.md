@@ -55,14 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 29 September 2022
+From: 23 September 2022 - To: 30 September 2022
 
-Go               21 hrs 42 mins  ██████████████████████░░░   87.52 %
-YAML             2 hrs 35 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
-Docker           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Go               15 hrs 49 mins  █████████████████████░░░░   84.38 %
+YAML             2 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Docker           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+Makefile         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
