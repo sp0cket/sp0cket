@@ -55,12 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
+From: 29 September 2022 - To: 06 October 2022
 
-Go               4 hrs 6 mins    ██████████████████▓░░░░░░   75.19 %
-YAML             1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   19.54 %
-Docker           16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+YAML   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
