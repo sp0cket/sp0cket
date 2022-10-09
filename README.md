@@ -55,7 +55,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 01 October 2022 - To: 08 October 2022
+
+Go      14 mins         ███████████████▓░░░░░░░░░   62.91 %
+Other   8 mins          ████████▓░░░░░░░░░░░░░░░░   35.16 %
 ```
 
 <!--END_SECTION:waka-->
