@@ -55,10 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 October 2022 - To: 10 October 2022
+From: 04 October 2022 - To: 11 October 2022
 
-Go      14 mins         ███████████████▓░░░░░░░░░   63.05 %
-Other   8 mins          ████████▓░░░░░░░░░░░░░░░░   35.03 %
+Go         1 hr 17 mins    █████████████████▒░░░░░░░   69.00 %
+YAML       25 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.15 %
+Other      8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
 ```
 
 <!--END_SECTION:waka-->
