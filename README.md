@@ -55,13 +55,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 October 2022 - To: 07 November 2022
+From: 01 November 2022 - To: 08 November 2022
 
-Go         16 hrs 10 mins  █████████████████████████   99.75 %
-YAML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-go.mod     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Go         17 hrs 19 mins  ████████████████████████▓   98.91 %
+Other      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
