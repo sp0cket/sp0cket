@@ -55,11 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 20 November 2022
+From: 14 November 2022 - To: 21 November 2022
 
-Go               17 hrs 40 mins  █████████████████████▒░░░   85.62 %
-YAML             1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
-Other            42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Go               20 hrs 7 mins   ██████████████████████▒░░   89.57 %
+YAML             1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.12 %
+Other            42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 ```
 
 <!--END_SECTION:waka-->
