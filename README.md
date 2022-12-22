@@ -55,13 +55,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-Go               11 hrs 18 mins  ███████████████████████▒░   92.79 %
-C                44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
-C++              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Makefile         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go               6 hrs 14 mins   █████████████████████████   99.88 %
+ca65 assembler   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
