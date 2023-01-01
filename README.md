@@ -55,11 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 December 2022 - To: 30 December 2022
+From: 24 December 2022 - To: 31 December 2022
 
-Go         4 hrs 59 mins   ██████████████████████▒░░   89.64 %
-YAML       22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-Makefile   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Go         4 hrs 31 mins   ███████████████████████░░   92.37 %
+YAML       22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Makefile   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
