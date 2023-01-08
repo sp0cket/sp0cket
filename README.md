@@ -55,7 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 December 2022 - To: 06 January 2023
+From: 31 December 2022 - To: 07 January 2023
 
 Go                13 hrs 43 mins  ██████████████████████░░░   87.36 %
 C                 39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
