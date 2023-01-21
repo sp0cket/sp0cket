@@ -38,15 +38,15 @@
 
 <p align="center">
   <a href="https://github.com/sp0cket">
-    <img src="https://github-readme-stats.vercel.app/api?username=sp0cket&show_icons=true&theme=buefy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sp0cket&show_icons=true&theme=dracula" />
   </a>
 </p>
 
 <p>
-  Today is <b>Saturday, January 21, 2:06 PM GMT+8</b> <br />
+  Today is <b>Saturday, January 21, 5:03 PM GMT+8</b> <br />
   My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" width="20" /> <i>clear sky</i>
-  <li>temperature : <b>10.3 °C</b> , feels like  : <b>8.6 °C</b></br></li>
-  <li>humidity    : <b>44%</b> , wind speed  : <b>5 meter&#x2F;sec</b></br></li>
+  <li>temperature : <b>8.8 °C</b> , feels like  : <b>6.2 °C</b></br></li>
+  <li>humidity    : <b>50%</b> , wind speed  : <b>5 meter&#x2F;sec</b></br></li>
   <li>sun rises at: <b>06:51 AM</b> , sets at: <b>05:18 PM</b></li>
 </p>
 
