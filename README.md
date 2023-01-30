@@ -55,7 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 22 January 2023 - To: 29 January 2023
+
+Go                4 hrs 56 mins   ██████████████████████▓░░   90.99 %
+Protocol Buffer   28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Text              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
 
 <!--END_SECTION:waka-->
