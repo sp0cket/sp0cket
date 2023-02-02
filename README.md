@@ -55,12 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 January 2023 - To: 31 January 2023
+From: 25 January 2023 - To: 01 February 2023
 
-Go                15 hrs 3 mins   ██████████████████████▓░░   90.41 %
-Protocol Buffer   1 hr 4 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Text              25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
-Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Go                19 hrs 10 mins  ███████████████████████░░   91.81 %
+Protocol Buffer   1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 %
+Text              25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Makefile          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+AUTO_DETECTED     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
