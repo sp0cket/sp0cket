@@ -55,14 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 January 2023 - To: 06 February 2023
+From: 31 January 2023 - To: 07 February 2023
 
-Go                24 hrs 44 mins  ████████████████████████▒   97.33 %
-Text              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Go                24 hrs 45 mins  ████████████████████████▓   98.33 %
 Makefile          9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 textmate          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 go.mod            5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-AUTO_DETECTED     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+GitIgnore file    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Other             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
