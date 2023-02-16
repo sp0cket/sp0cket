@@ -55,14 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 February 2023 - To: 14 February 2023
+From: 08 February 2023 - To: 15 February 2023
 
-Go                17 hrs 5 mins   ████████████████████████░   95.63 %
-Markdown          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Makefile          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-go.mod            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Go                15 hrs 21 mins  ███████████████████████░░   92.16 %
+Markdown          56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Makefile          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+XML               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+go.mod            3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+GitIgnore file    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
