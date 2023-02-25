@@ -55,12 +55,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 February 2023 - To: 23 February 2023
+From: 17 February 2023 - To: 24 February 2023
 
-Go               24 hrs 8 mins   ███████████████████████░░   92.28 %
-Makefile         1 hr 7 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-YAML             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Other            13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Go                                       22 hrs 47 mins  ████████████████████▓░░░░   82.03 %
+Makefile                                 2 hrs 13 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+systemd                                  1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+YAML                                     39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+GitIgnore file                           17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Other                                    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
