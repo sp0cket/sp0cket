@@ -55,14 +55,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2023 - To: 06 March 2023
+From: 28 February 2023 - To: 07 March 2023
 
-Go                    27 hrs 22 mins  ██████████████████████░░░   87.45 %
-Makefile              1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-JavaScript            1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
-HTML                  32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-Markdown              23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-YAML                  13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Go                    29 hrs 7 mins   ███████████████████████▒░   92.97 %
+Makefile              1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Markdown              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other                 10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
