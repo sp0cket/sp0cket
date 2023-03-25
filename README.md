@@ -55,11 +55,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Go               37 hrs 2 mins   ████████████████████▓░░░░   82.82 %
-Makefile         4 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Other            52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Go                35 hrs 8 mins   ███████████████████▓░░░░░   79.03 %
+Makefile          4 hrs 6 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+C                 1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Other             52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
