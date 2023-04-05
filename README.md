@@ -55,12 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 March 2023 - To: 03 April 2023
+From: 28 March 2023 - To: 04 April 2023
 
-Go               35 hrs 2 mins   █████████████████████▒░░░   85.84 %
-YAML             1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Makefile         1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Other            49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Go               37 hrs 6 mins   ██████████████████████▒░░   89.77 %
+Makefile         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+Other            49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
