@@ -55,11 +55,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 04 April 2023
+From: 29 March 2023 - To: 05 April 2023
 
-Go               37 hrs 6 mins   ██████████████████████▒░░   89.77 %
-Makefile         56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Other            49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Go               32 hrs 55 mins  ██████████████████████▒░░   89.96 %
+Other            56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
