@@ -55,10 +55,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 April 2023 - To: 28 April 2023
+From: 22 April 2023 - To: 29 April 2023
 
-Go                                       22 hrs 21 mins  ██████████████████▓░░░░░░   74.62 %
-Other                                    1 hr 36 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+Go                                       20 hrs 56 mins  ██████████████████▒░░░░░░   73.92 %
+Other                                    1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->
