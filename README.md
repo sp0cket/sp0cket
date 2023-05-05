@@ -55,11 +55,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2023 - To: 03 May 2023
+From: 27 April 2023 - To: 04 May 2023
 
-Go                                       10 hrs 7 mins   ███████████████████░░░░░░   76.25 %
-Shell Script                             59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
-Other                                    25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Go                                       11 hrs 9 mins   █████████████████████▒░░░   85.96 %
+INI                                      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Other                                    17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
