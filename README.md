@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2023 - To: 19 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
-Go                                       31 hrs 28 mins  ███████████████████░░░░░░   75.77 %
-Makefile                                 2 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Other                                    2 hrs 26 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-Batchfile                                1 hr 44 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-systemd                                  55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Go                                       33 hrs 4 mins   ██████████████████▓░░░░░░   74.44 %
+Makefile                                 3 hrs 14 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Other                                    2 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Batchfile                                1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+systemd                                  55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
