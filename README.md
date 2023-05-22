@@ -43,10 +43,10 @@
 </p>
 
 <p>
-  Today is <b>Monday, May 22, 5:01 AM GMT+8</b> <br />
-  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;04d@2x.png" width="20" /> <i>broken clouds</i>
-  <li>temperature : <b>18.9 °C</b> , feels like  : <b>19.1 °C</b></br></li>
-  <li>humidity    : <b>84%</b> , wind speed  : <b>4.47 meter&#x2F;sec</b></br></li>
+  Today is <b>Monday, May 22, 8:01 AM GMT+8</b> <br />
+  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;09d@2x.png" width="20" /> <i>light intensity shower rain</i>
+  <li>temperature : <b>17.8 °C</b> , feels like  : <b>17.8 °C</b></br></li>
+  <li>humidity    : <b>85%</b> , wind speed  : <b>5 meter&#x2F;sec</b></br></li>
   <li>sun rises at: <b>04:54 AM</b> , sets at: <b>06:46 PM</b></li>
 </p>
 
