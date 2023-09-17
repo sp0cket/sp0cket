@@ -55,7 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 September 2023 - To: 15 September 2023
+From: 09 September 2023 - To: 16 September 2023
 
 Go             5 hrs 31 mins   ███████████████████████▒░   93.89 %
 Ezhil          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
