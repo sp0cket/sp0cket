@@ -55,13 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2023 - To: 01 October 2023
+From: 25 September 2023 - To: 02 October 2023
 
-Go             6 hrs 22 mins   ████████████████████████▓   99.05 %
-YAML           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Go   2 hrs 19 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
