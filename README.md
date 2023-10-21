@@ -55,10 +55,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-Go     2 hrs 11 mins   █████████████████████████   99.80 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Go     30 mins         ████████████████████████▓   99.15 %
+JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
