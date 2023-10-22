@@ -38,15 +38,15 @@
 
 <p align="center">
   <a href="https://github.com/sp0cket">
-    <img src="https://github-readme-stats.vercel.app/api?username=sp0cket&show_icons=true&theme=dracula" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sp0cket&show_icons=true&theme=buefy" />
   </a>
 </p>
 
 <p>
-  Today is <b>Sunday, October 22, 5:00 AM GMT+8</b> <br />
-  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" width="20" /> <i>clear sky</i>
-  <li>temperature : <b>14.9 °C</b> , feels like  : <b>14.5 °C</b></br></li>
-  <li>humidity    : <b>77%</b> , wind speed  : <b>0 meter&#x2F;sec</b></br></li>
+  Today is <b>Sunday, October 22, 8:02 AM GMT+8</b> <br />
+  My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01d@2x.png" width="20" /> <i>clear sky</i>
+  <li>temperature : <b>17.9 °C</b> , feels like  : <b>17.5 °C</b></br></li>
+  <li>humidity    : <b>68%</b> , wind speed  : <b>2 meter&#x2F;sec</b></br></li>
   <li>sun rises at: <b>06:01 AM</b> , sets at: <b>05:15 PM</b></li>
 </p>
 
