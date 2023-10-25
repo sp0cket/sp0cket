@@ -55,10 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 23 October 2023
+From: 17 October 2023 - To: 24 October 2023
 
-Go     14 mins         ████████████████████████▓   98.16 %
-JSON   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
