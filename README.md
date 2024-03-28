@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-Go                  32 hrs 40 mins  █████████████████████▓░░░   86.52 %
-Docker              1 hr 42 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
-YAML                1 hr 27 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-protobuf            33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-GitIgnore file      25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Go                  30 hrs 26 mins  ██████████████████████▒░░   89.13 %
+YAML                1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Docker              51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+GitIgnore file      22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Protocol Buffer     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
