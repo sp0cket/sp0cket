@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2024 - To: 19 June 2024
+From: 13 June 2024 - To: 20 June 2024
 
-Go               13 hrs 37 mins  █████████████████████▒░░░   84.68 %
-YAML             2 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 %
+Go               13 hrs 19 mins  █████████████████████░░░░   84.29 %
+YAML             2 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
 go.mod           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 Shell Script     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
