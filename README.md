@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2024 - To: 05 September 2024
+From: 30 August 2024 - To: 06 September 2024
 
-Go                                       5 hrs 57 mins   ███████████████░░░░░░░░░░   60.27 %
-YAML                                     1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
-Python                                   53 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
-Shell Script                             42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Makefile                                 17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Go                                       3 hrs 52 mins   ████████████████░░░░░░░░░   63.55 %
+YAML                                     1 hr 24 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
+Shell Script                             42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
+HTML                                     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Text                                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
