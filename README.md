@@ -55,7 +55,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2024 - To: 07 September 2024
+From: 01 September 2024 - To: 08 September 2024
 
 Go                                       3 hrs 52 mins   ████████████████░░░░░░░░░   63.55 %
 YAML                                     1 hr 24 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.17 %
