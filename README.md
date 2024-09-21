@@ -55,13 +55,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Go               1 hr 52 mins    ██████████████░░░░░░░░░░░   56.44 %
-YAML             55 mins         ███████░░░░░░░░░░░░░░░░░░   27.95 %
-GitIgnore file   15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-Makefile         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Other            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Go   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
