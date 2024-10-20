@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2024 - To: 18 October 2024
+From: 12 October 2024 - To: 19 October 2024
 
-Go                    61 hrs 39 mins  ███████████████████████▒░   92.77 %
-Python                2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-SQL                   1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-YAML                  37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Shell Script          18 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Go               56 hrs 38 mins  ███████████████████████▒░   93.69 %
+Python           2 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+SQL              1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Makefile         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Docker           3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
