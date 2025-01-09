@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2024 - To: 07 January 2025
+From: 01 January 2025 - To: 08 January 2025
 
-Go             10 hrs 4 mins   ████████████████████████▒   97.87 %
-YAML           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Markdown       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                                       11 hrs 2 mins   ███████████████████████░░   91.55 %
+SQL                                      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+YAML                                     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Slice unit configuration for systemd     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+Makefile                                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
