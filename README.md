@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Go                                       11 hrs 2 mins   ███████████████████████░░   91.55 %
-SQL                                      29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-YAML                                     24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Slice unit configuration for systemd     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Makefile                                 1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Go                                       12 hrs 45 mins  ████████████████████▓░░░░   82.47 %
+YAML                                     1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Shell Script                             34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+SQL                                      29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Debian Control file                      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
