@@ -43,7 +43,7 @@
 </p>
 
 <p>
-  Today is <b>Tuesday, January 28, 2:01 AM GMT+8</b> <br />
+  Today is <b>Tuesday, January 28, 5:00 AM GMT+8</b> <br />
   My current city <b>Shanghai, CN</b> weather is: <img src="http:&#x2F;&#x2F;openweathermap.org&#x2F;img&#x2F;wn&#x2F;01n@2x.png" width="20" /> <i>clear sky</i>
   <li>temperature : <b>-0.1 °C</b> , feels like  : <b>-3.6 °C</b></br></li>
   <li>humidity    : <b>43%</b> , wind speed  : <b>3 meter&#x2F;sec</b></br></li>
