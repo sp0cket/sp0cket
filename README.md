@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 January 2025 - To: 04 February 2025
+From: 29 January 2025 - To: 05 February 2025
 
-Go                                     1 hr 21 mins    ████████████████████████▓   99.01 %
-go.mod                                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Shell Script                           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-YAML                                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Docker                                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Go                                     5 hrs 17 mins   █████████████████████████   99.74 %
+go.mod                                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Shell Script                           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+YAML                                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Docker                                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
