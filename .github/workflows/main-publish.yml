@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 3 * * *"
 
 jobs:
   build:
@@ -46,7 +46,6 @@ jobs:
           git config http.sslVerify false
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git lfs install
           echo "Commit files date: $(date)"
           git add -A
           git --no-pager diff --staged README.md
