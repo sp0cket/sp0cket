@@ -55,9 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 13 January 2026 - To: 20 January 2026
 
-No activity tracked
+Go               1 hr 21 mins    ████████████████████░░░░░   79.97 %
+Markdown         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+HTML             7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+YAML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
