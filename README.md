@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2026 - To: 21 January 2026
+From: 15 January 2026 - To: 22 January 2026
 
-Go                    1 hr 28 mins    ████████████████████▒░░░░   81.13 %
-HTML                  7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-Text                  7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
-Markdown              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Shell Script          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Go                    1 hr 59 mins    ████████████████▒░░░░░░░░   65.58 %
+Markdown              44 mins         ██████░░░░░░░░░░░░░░░░░░░   24.42 %
+HTML                  7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+Text                  7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Shell Script          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
