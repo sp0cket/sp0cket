@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2026 - To: 02 February 2026
+From: 27 January 2026 - To: 03 February 2026
 
-Go               2 hrs 51 mins   ███████████▒░░░░░░░░░░░░░   44.82 %
-YAML             1 hr 55 mins    ███████▓░░░░░░░░░░░░░░░░░   30.20 %
-Docker           51 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.40 %
-Makefile         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Markdown         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+YAML             1 hr 11 mins    ████████████░░░░░░░░░░░░░   47.92 %
+Go               1 hr 2 mins     ██████████▓░░░░░░░░░░░░░░   42.04 %
+Docker           10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+textmate         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
