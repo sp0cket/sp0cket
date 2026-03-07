@@ -55,9 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2026 - To: 05 March 2026
+From: 27 February 2026 - To: 06 March 2026
 
-Markdown   0 secs                █████████████████████████   100.00 %
+Go             3 hrs 5 mins          ████████████████████░░░░░   80.52 %
+YAML           23 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Markdown       14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+JSON           3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Makefile       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
 ```
 
 <!--END_SECTION:waka-->
