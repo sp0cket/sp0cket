@@ -55,9 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 March 2026 - To: 17 March 2026
+From: 11 March 2026 - To: 18 March 2026
 
-No activity tracked
+Go             58 mins               ██████████████████████▒░░   89.61 %
+Docker         3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+JSON           1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Markdown       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+SQL            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
