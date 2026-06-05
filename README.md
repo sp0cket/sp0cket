@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 May 2026 - To: 02 June 2026
+From: 27 May 2026 - To: 03 June 2026
 
-YAML                  14 mins               ████████▓░░░░░░░░░░░░░░░░   35.29 %
-Shell Script          12 mins               ███████▓░░░░░░░░░░░░░░░░░   30.54 %
-Go                    7 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-Text                  6 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.77 %
-Debian Control file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+YAML                  13 mins               ██████████▒░░░░░░░░░░░░░░   40.98 %
+Shell Script          12 mins               █████████▒░░░░░░░░░░░░░░░   37.88 %
+Text                  6 mins                █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+Debian Control file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JSON                  0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
