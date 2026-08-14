@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Go                    6 hrs 44 mins         ███████████▒░░░░░░░░░░░░░   44.96 %
-Markdown              3 hrs 33 mins         ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-Shell Script          1 hr 19 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-YAML                  1 hr 15 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-TypeScript            33 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Go                    6 hrs 8 mins          ██████████▓░░░░░░░░░░░░░░   42.04 %
+Markdown              3 hrs 9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+YAML                  1 hr 49 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Shell Script          1 hr 19 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Other                 44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
