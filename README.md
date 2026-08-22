@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2026 - To: 20 August 2026
+From: 14 August 2026 - To: 21 August 2026
 
-Go                   2 hrs 13 mins         █████████░░░░░░░░░░░░░░░░   35.66 %
-Markdown             1 hr 53 mins          ███████▓░░░░░░░░░░░░░░░░░   30.43 %
-Other                45 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
-TypeScript           24 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
-Dockerfile           21 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Go                   1 hr 40 mins          █████████▓░░░░░░░░░░░░░░░   38.09 %
+Markdown             1 hr 27 mins          ████████▒░░░░░░░░░░░░░░░░   33.17 %
+Other                25 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+YAML                 23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+TypeScript           14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
 ```
 
 <!--END_SECTION:waka-->
