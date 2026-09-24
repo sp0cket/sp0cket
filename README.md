@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2026 - To: 22 September 2026
+From: 16 September 2026 - To: 23 September 2026
 
-YAML           1 hr 57 mins          ███████████████░░░░░░░░░░   59.83 %
-Go             1 hr                  ███████▓░░░░░░░░░░░░░░░░░   30.91 %
-Markdown       16 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
-Other          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
-INI            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+YAML           2 hrs 6 mins          ██████████░░░░░░░░░░░░░░░   39.85 %
+Go             1 hr 58 mins          █████████▒░░░░░░░░░░░░░░░   37.27 %
+Markdown       54 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.08 %
+Shell Script   16 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Other          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
