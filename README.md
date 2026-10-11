@@ -55,13 +55,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2026 - To: 09 October 2026
+From: 03 October 2026 - To: 10 October 2026
 
-Go                   34 mins               ██████████████░░░░░░░░░░░   55.44 %
-Markdown             10 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-HTML                 9 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-Shell Script         6 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
-Git Config           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Go                   34 mins               ███████████████████▓░░░░░   78.58 %
+Shell Script         6 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Markdown             2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+JavaScript           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+YAML                 0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
